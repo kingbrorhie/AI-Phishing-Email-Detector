@@ -1,4 +1,4 @@
-# Hi, I'm David Ebuanekpe 👋
+# Hi, I'm David Ebuanekpe 
 
 ## Ethical Hacker | Cybersecurity Analyst | Full Stack Developer | AI Enthusiast
 
@@ -21,10 +21,10 @@ Results-driven cybersecurity professional and software developer with a Bachelor
 
 ### Featured Projects
 
-🔐 AI-Powered Phishing Email Detector  
+AI-Powered Phishing Email Detector  
 Machine learning application that detects phishing emails using NLP and supervised learning techniques.
 
-🚧 Upcoming Projects
+Upcoming Projects
 - Network Vulnerability Scanner
 - Password Strength Analyzer
 - Web Security Scanner
@@ -44,11 +44,14 @@ Electrical & Electronics Engineering
 - Cloud Security
 - Secure Software Development
 
-### Certifications (In Progress)
+### Certifications ()
 
 - Fortinet Certified Fundamentals (FCF)
 - Cisco Cybersecurity Essentials
-- TryHackMe Learning Paths
+- TryHackMe Learning Paths(In progress)
+- python Programming
+- Cisco Ethical Hacking
+- Amazon web solution 
 
 ### Connect With Me
 
