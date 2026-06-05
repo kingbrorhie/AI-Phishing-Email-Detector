@@ -1,26 +1,58 @@
-# AI-Powered Phishing Email Detector
+# Hi, I'm David Ebuanekpe 👋
 
-## Overview
+## Ethical Hacker | Cybersecurity Analyst | Full Stack Developer | AI Enthusiast
 
-A machine learning application that detects phishing emails using Natural Language Processing (NLP) and supervised learning.
+### About Me
 
-## Features
+Results-driven cybersecurity professional and software developer with a Bachelor of Engineering (B.Eng.) in Electrical & Electronics Engineering. Passionate about ethical hacking, penetration testing, AI-powered security solutions, and full-stack development.
 
-- Phishing Detection
-- Spam Classification
-- Email Threat Analysis
-- Machine Learning Model
+### Core Skills
 
-## Technologies
+- Ethical Hacking
+- Penetration Testing
+- Cybersecurity Analysis
+- Vulnerability Assessment
+- Python Programming
+- Full Stack Development
+- Artificial Intelligence
+- Linux Administration
+- Network Security
+- Web Application Security
 
-- Python
-- Flask
-- Scikit-Learn
-- Pandas
-- Joblib
+### Featured Projects
 
-## Author
+🔐 AI-Powered Phishing Email Detector  
+Machine learning application that detects phishing emails using NLP and supervised learning techniques.
 
-David Ebuanekpe
+🚧 Upcoming Projects
+- Network Vulnerability Scanner
+- Password Strength Analyzer
+- Web Security Scanner
+- Threat Intelligence Dashboard
 
-Ethical Hacker | Cybersecurity Analyst | Full Stack Developer
+### Education
+
+Bachelor of Engineering (B.Eng.)  
+Electrical & Electronics Engineering
+
+### Professional Interests
+
+- Red Teaming
+- Blue Teaming
+- Threat Intelligence
+- AI Security
+- Cloud Security
+- Secure Software Development
+
+### Certifications (In Progress)
+
+- Fortinet Certified Fundamentals (FCF)
+- Cisco Cybersecurity Essentials
+- TryHackMe Learning Paths
+
+### Connect With Me
+
+LinkedIn: linkedin.com/in/david-ebuanekpe-b5512a3a4
+
+---
+*"Security is not a product, but a process."*
